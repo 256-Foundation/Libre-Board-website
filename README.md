@@ -1,3 +1,5 @@
+## Open Control
+
 ## Motivation
 There are no open-source control boards and we set out to change that with this grant. There are many aftermarket control boards but they are all closed source. First and foremost the Libre Board will be built to finalize the Ember One complete mining system. There will be a number of options added to the first Libre Board with the intention of it being able to handle running a Bitcoin full node and stable Stratum server while also running the Ember One hashboards. There will be a wide selection of standardized I/O ports on the Libre Board like USB adapters for connecting to the Ember One hashboards, Ethernet, HDMI, NVME, fan connectors, and WiFi. Future forks of the Libre Board can then modify the form factor and modify the I/O options and change the fan and hashboard connectors to match Antminers, Whatsminers, or any other miner that the end user wants. The Libre Board will also feature standardized two 100-pin connectors for the compute module so that users can decide if they want to run a RISC-V, ARM, or other processor. Since the mining firmware, Mujina, is Linux based it can be deployed on any module the end user chooses.   
 
@@ -10,6 +12,7 @@ If this sounds like a grant you want to support, then send The 256 Foundaton a t
 ## Scope:
 One Project Manager position and one engineer position to fulfill the mission of The 256 Foundation, “Dismantle the proprietary mining empire to make Bitcoin and freedom tech accessible to anyone”. This grant has secured funding for:
 
+* This grant officially launched on April 5, 2025.
 * One project manager to oversee and ensure mission adherence, timeliness, and execution. 
 * One engineer to develop the Libre Board hardware.
 * Libre Board specifics: Fully open-source with a variety of I/O standards and versatile compute module configuration. 
