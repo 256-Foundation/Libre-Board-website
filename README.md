@@ -37,7 +37,10 @@ The initial release of Libre Board is being built built in such a way that it su
 The timeline for this grant is six months with the opportunity to extend the grant at the conclusion of each six month cycle, pending negotiations.
 
 ## Materials:
-Materials for this project’s prototype are included in the budget. Potential materials for the project may include but are not limited to miscellaneous components, various compute modules, custom designed PCBs, and various other tools or software.
+Materials for this project’s prototype are included in the budget. Potential materials for the project may include but are not limited to miscellaneous components, various compute modules, custom designed PCBs, and various other tools or 
+
+## Community Support
+For help with Libre Board, please use [The 256 Foundation public forum](https://t.me/the256foundation) on Telegram.software.
 
 ## Team Members:
 Lead Engineer = [@Schnitzel](https://x.com/Schnitzel)
